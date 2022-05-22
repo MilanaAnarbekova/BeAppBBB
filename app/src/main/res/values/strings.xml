@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeAppBBB</string>
+    <string name="title_home">Home</string>
+    <string name="title_records">Records</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_salons">Salons</string>
+    <string name="title_account">Account</string>
+    <string name="name_app">BeApp</string>
+    <string name="tittle_records">Мои записи</string>
+    <string name="salons">Салоны</string>
+    <string name="account">Профиль</string>
+    <string name="exit">Выйти</string>
+    <string name="home">Главная</string>
+    <string name="account2">Аккаунт</string>
+    <string name="about_us">О нас</string>
+    <string name="bestyle">BeStyle</string>
+    <string name="streets">ул. Советская 152/3</string>
+</resources>
